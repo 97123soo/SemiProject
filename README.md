@@ -1,13 +1,8 @@
 # Would, U?
-> 친구와 함께 일기를 작성하고 서로의 감정을 돌아볼 수 있는 서비스
+> 쿼카 플레이어(뮤직스트리밍 사이트)
 
 ## 프로젝트 개요
-
-![로고](./front/public/mainlogo.png)
-
-- 개발 기간: 2023-00-00 ~ 2023-00-00
-- 개발자 링크: [https://www.naver.com](https://www.naver.com)
-- 서비스 링크: [https://www.naver.com](https://www.naver.com)
+- 개발 기간: 2023-10-23 ~ 2023-11-17
 - 본 프로젝트의 구조를 더 자세히 알고 싶다면?
   - [백엔드 README](./BACK.md)
   - [프론트엔드 README](./FRONT.md)
